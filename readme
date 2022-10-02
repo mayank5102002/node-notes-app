@@ -1,0 +1,3 @@
+A basic Node.js app to create notes, delete notes, list node and view nodes.
+
+To run use Node.js CLI with the yargs.
